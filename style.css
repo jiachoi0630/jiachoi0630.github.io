@@ -1,64 +1,47 @@
-	body {
+		body {
 
-	background: #F7F4D8; }
 
-header {font-family: "Bradley Hand ITC TT";
-font-size: 20px; }
+padding-left: 200px;
+padding-right:100px;
+padding-bottom:50px;
+	background: #fcfeff; }
 
-	title { font-family: "Comic Sans MS";
-font-size: 20px;}
+header {font-family: "Bank Gothic";
+font-size: 20px; 
+color: #262e4e;
+padding-left:0px;
+padding-top:40px;}
 
-a {
-	font-size: 2em;
+h1 {font-size: 20px;
+color: #000000;
+font-family: "Bradley Hand ITC TT"}
+
+
+h6 {font-size: 15px;
+color: #000000; 
+font-family: "Bank Gothic";
+padding-right:100px }
+
+
+table {padding-left: 80px; 
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 50px;
+font-family: "Bank Gothic"; 
 }
 
-h1 {font-size: 20px; }
-	
-
-		{font-size: 20px;
-	font-family: "Comic Sans MS";}
-	
-
-h1 {
-	font-size: 70px;
-}
-
-h1 {
-	color: purple;
-}
-
-table {padding-left: 10px; 
-padding-top: 10px;
-padding-bottom: 10px;
-padding-right: 10px;}
-
-h4 {font-size: 40px;
-color: purple;}
-
-.special-subheading {
-	font-family: "Comic Sans MS";
-	font-size: 70px;
-}
 
 .shape {
- background: #CDB380;
- padding-left:10px;
+	background: #e8f5ff;
+	padding-left:50px;
+	padding-right: 50px;
  padding-top: 30px;
- padding-bottom: 30px;
- margin-left:70px;
- margin-right: 70px;
-
+ padding-bottom:30px;
+ margin-right: 110px;
+ font-family: "Bradley Hand ITC TT";
+ font-size: 18px;
 }
 
-.selfie {
-	width:10px;
-	height: 90px;
-}
 
-a {
-	color: #3B8686;
-	text-decoration: none;}
-
-}
 	/body 
  }
