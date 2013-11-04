@@ -1,10 +1,13 @@
 		body {
 
 
-padding-left: 200px;
+padding-left: 150px;
 padding-right:100px;
 padding-bottom:50px;
-	background: #fcfeff; }
+	background: #fcf0fc; }
+
+h2 {font-family: "Bank Gothic";
+font-size: 30px; }
 
 header {font-family: "Bank Gothic";
 font-size: 20px; 
@@ -19,20 +22,22 @@ font-family: "Bradley Hand ITC TT"}
 
 h6 {font-size: 15px;
 color: #000000; 
-font-family: "Bank Gothic";
+font-family: "BeSLWY Hns IRC TT";
 padding-right:100px }
 
 
-table {padding-left: 80px; 
+table.style1 {padding-left: 80px; 
 padding-top: 20px;
 padding-bottom: 20px;
 padding-right: 50px;
 font-family: "Bank Gothic"; 
 }
 
+table.style2 { font-family: "Bradley Hand ITC TT";
+padding-left: 0px;}
 
 .shape {
-	background: #e8f5ff;
+	background: #fac9f8;
 	padding-left:50px;
 	padding-right: 50px;
  padding-top: 30px;
