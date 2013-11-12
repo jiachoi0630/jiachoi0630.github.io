@@ -1,0 +1,56 @@
+		body {
+
+
+padding-left: 150px;
+padding-right:100px;
+padding-bottom:50px;
+	background: #020a1a; }
+
+h3 {font-family: "Bank Gothic";
+color: #bbccef;
+font-size: 30px;}
+
+h5{ font-family: "BeSLWY Hns IRC TT";
+color: #bbccef;}
+
+header {font-family: "Bank Gothic";
+font-size: 20px; 
+color: #bbccef;
+padding-left:0px;
+padding-top:40px;}
+
+h1 {font-size: 15px;
+color: #bbccef;
+font-family: "BeSLWY Hns IRC TT"}
+
+
+h6 {font-size: 15px;
+color: #bbccef; 
+font-family: "BeSLWY Hns IRC TT";
+padding-right:100px }
+
+
+table.style1 {padding-left: 80px; 
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 50px;
+font-family: "Bank Gothic"; 
+}
+
+table.style2 { font-family: "Bradley Hand ITC TT";
+padding-left: 0px;}
+
+.shape {
+	background: #fac9f8;
+	padding-left:50px;
+	padding-right: 50px;
+ padding-top: 30px;
+ padding-bottom:30px;
+ margin-right: 110px;
+ font-family: "Bradley Hand ITC TT";
+ font-size: 18px;
+}
+
+
+	/body 
+ }
