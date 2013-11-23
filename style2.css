@@ -1,10 +1,12 @@
 		body {
 
 
+
 padding-left: 150px;
 padding-right:100px;
 padding-bottom:50px;
 	background: #020a1a; }
+
 
 h3 {font-family: "Bank Gothic";
 color: #bbccef;
@@ -19,9 +21,9 @@ color: #bbccef;
 padding-left:0px;
 padding-top:40px;}
 
-h1 {font-size: 15px;
+h1 {font-size: 20px;
 color: #bbccef;
-font-family: "BeSLWY Hns IRC TT"}
+font-family: "Bank Gothic"}
 
 
 h6 {font-size: 15px;
@@ -50,7 +52,7 @@ padding-left: 0px;}
  font-family: "Bradley Hand ITC TT";
  font-size: 18px;
 }
-
+{display: fixed;}
 
 	/body 
  }
