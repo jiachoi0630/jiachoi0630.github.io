@@ -1,8 +1,8 @@
 		body {
 
-
+display: fixed;
 padding-left: 150px;
-padding-right:100px;
+padding-right:150px;
 padding-bottom:50px;
 	background: #fcf0fc; }
 
@@ -19,6 +19,11 @@ h1 {font-size: 20px;
 color: #000000;
 font-family: "Bradley Hand ITC TT"}
 
+h4 {font-family: "Bradley Hand ITC TT";
+font-size: 20px;}
+
+h3 {font-family: "Ariel";
+font-size: 15px;}
 
 h6 {font-size: 15px;
 color: #000000; 
@@ -26,15 +31,18 @@ font-family: "BeSLWY Hns IRC TT";
 padding-right:100px }
 
 
-table.style1 {padding-left: 80px; 
+table.style1 {padding-left: 100px; 
 padding-top: 20px;
 padding-bottom: 20px;
-padding-right: 50px;
 font-family: "Bank Gothic"; 
+
 }
 
-table.style2 { font-family: "Bradley Hand ITC TT";
-padding-left: 0px;}
+table.style2 { font-family: "Ariel";
+font-size: 15px;
+padding-left: 100px;
+padding-bottom: 50px;
+padding-right: }
 
 .shape {
 	background: #fac9f8;
@@ -42,7 +50,7 @@ padding-left: 0px;}
 	padding-right: 50px;
  padding-top: 30px;
  padding-bottom:30px;
- margin-right: 110px;
+ margin-right: 10px;
  font-family: "Bradley Hand ITC TT";
  font-size: 18px;
 }
