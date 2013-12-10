@@ -1,4 +1,4 @@
-		body {
+	body {
 
 display: fixed;
 padding-left: 100px;
@@ -10,7 +10,7 @@ padding-bottom:100px;
 
 
 h2 {font-family: "Bank Gothic";
-font-size: 30px; 
+font-size: 10px; 
 color:#01aef0;}
 
 
@@ -20,9 +20,9 @@ color: #01aef0;
 padding-left:0px;
 padding-top:40px;}
 
-h1 {font-size: 20px;
-color: #b103d7;
-font-family: "Bradley Hand ITC TT"}
+h1 {font-size: 30px;
+color: #485ce1;
+font-family: "Bank Gothic"}
 
 
 h6 {font-size: 15px;
@@ -30,6 +30,10 @@ color: #556287;
 font-family: "Bank Gothic";
 padding-right:100px }
 
+h5 {font-size: 15px;
+color: #ffea00; 
+font-family: "Bank Gothic";
+padding-right:100px }
 
 table.style1 {padding-left: 10px; 
 padding-top: 20px;
@@ -41,21 +45,32 @@ table.style2 { font-family: "Bank Gothic";
 padding-top: 20px;
 padding-bottom: 20px;
 padding-left: 30px;
-font color:#b300c9;}
+font color: "#4254d1"}
 
+
+a img { display:none; }
+a:hover img { display:inline; position: absolute; padding-bottom: 50px;}
 
 
 .shape {
+	background: #69c7eb;
+	padding-left:1px;
+	padding-right: 1px;
+ padding-top: 1px;
+ padding-bottom:1px;
+ margin-right: 1px;
+ font-family: "Bank Gothic";
+ font-size: 20px;}
+
+.shape2 {
 	background: #01aef0;
 	padding-left:1px;
 	padding-right: 1px;
  padding-top: 1px;
  padding-bottom:1px;
  margin-right: 1px;
- font-family: "Bradley Hand ITC TT";
- font-size: 18px;}
-
- 
+ font-family: "Bank Gothic";
+ font-size: 20px;} 
 
 	/body 
  }

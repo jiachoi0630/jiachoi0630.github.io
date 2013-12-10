@@ -1,8 +1,8 @@
-		body {
+body {
 
 display: fixed;
-padding-left: 100px;
-padding-right:100px;
+padding-left: 1px;
+padding-right:1px;
 padding-bottom:100px;
 	background: #cfe1f5;
  }
