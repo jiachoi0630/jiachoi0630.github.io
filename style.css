@@ -46,11 +46,12 @@ padding-right: }
 
 .shape {
 	background: #fac9f8;
-	padding-left:50px;
-	padding-right: 50px;
+	padding-left:40px;
+	padding-right: 40px;
  padding-top: 30px;
  padding-bottom:30px;
- margin-right: 10px;
+ margin-right: 0px;
+ margin-left: 
  font-family: "Bradley Hand ITC TT";
  font-size: 18px;
 }
